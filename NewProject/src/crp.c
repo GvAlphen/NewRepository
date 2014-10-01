@@ -28,7 +28,7 @@
 // copyright, permission, and disclaimer notice must appear in all copies of
 // this code.
 //*****************************************************************************
-
+BBBB
 #if defined (__CODE_RED)
 #include <NXP/crp.h>
 // Variable to store CRP value in. Will be placed automatically
