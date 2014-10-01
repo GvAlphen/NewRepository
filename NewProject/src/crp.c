@@ -29,6 +29,7 @@
 // this code.
 //*****************************************************************************
 BBBB
+CCCC
 #if defined (__CODE_RED)
 #include <NXP/crp.h>
 // Variable to store CRP value in. Will be placed automatically
